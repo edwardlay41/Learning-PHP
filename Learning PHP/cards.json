@@ -1,0 +1,278 @@
+[
+  {
+    "suit": "Clubs",
+	"value": 1,
+	"face": "A",
+	"image": "./card_photos/aceclubs.png"
+  },
+  {
+    "suit": "Clubs",
+	"value": 2,
+	"image": "./card_photos/2clubs.png"
+  },
+   {
+    "suit": "Clubs",
+	"value": 3,
+	"image": "./card_photos/3clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 4,
+	"image": "./card_photos/4clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 5,
+	"image": "./card_photos/5clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 6,
+	"image": "./card_photos/6clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 7,
+	"image": "./card_photos/7clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 8,
+	"image": "./card_photos/8clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 9,
+	"image": "./card_photos/9clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 10,
+	"image": "./card_photos/10clubs.svg"
+  },
+   {
+    "suit": "Clubs",
+	"value": 10,
+	"face": "J",
+	"image": "./card_photos/jackclubs.png"
+  },
+   {
+    "suit": "Clubs",
+	"value": 10,
+	"face": "Q",
+	"image": "./card_photos/queenclubs.png"
+  },
+   {
+    "suit": "Clubs",
+	"value": 10,
+	"face": "K",
+	"image": "./card_photos/kingclubs.png"
+  },
+  {
+    "suit": "Diamonds",
+	"value": 1,
+	"face": "A",
+	"image": "./card_photos/acediamonds.png"
+  },
+  {
+    "suit": "Diamonds",
+	"value": 2,
+	"image": "./card_photos/2diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 3,
+	"image": "./card_photos/3diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 4,
+	"image": "./card_photos/4diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 5,
+	"image": "./card_photos/5diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 6,
+	"image": "./card_photos/6diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 7,
+	"image": "./card_photos/7diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 8,
+	"image": "./card_photos/8diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 9,
+	"image": "./card_photos/9diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 10,
+	"image": "./card_photos/10diamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 10,
+	"face": "J",
+	"image": "./card_photos/jackdiamonds.svg"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 10,
+	"face": "Q",
+	"image": "./card_photos/queendiamonds.png"
+  },
+   {
+    "suit": "Diamonds",
+	"value": 10,
+	"face": "K",
+	"image": "./card_photos/kingdiamonds.svg"
+  },
+  {
+    "suit": "Hearts",
+	"value": 1,
+	"face": "A",
+	"image": "./card_photos/acehearts.svg"
+  },
+  {
+    "suit": "Hearts",
+	"value": 2,
+	"image": "./card_photos/2hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 3,
+	"image": "./card_photos/3hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 4,
+	"image": "./card_photos/4hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 5,
+	"image": "./card_photos/5hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 6,
+	"image": "./card_photos/6hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 7,
+	"image": "./card_photos/7hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 8,
+	"image": "./card_photos/8hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 9,
+	"image": "./card_photos/9hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 10,
+	"image": "./card_photos/10hearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 10,
+	"face": "J",
+	"image": "./card_photos/jackhearts.png"
+  },
+   {
+    "suit": "Hearts",
+	"value": 10,
+	"face": "Q",
+	"image": "./card_photos/queenhearts.svg"
+  },
+   {
+    "suit": "Hearts",
+	"value": 10,
+	"face": "K",
+	"image": "./card_photos/kinghearts.svg"
+  },
+  {
+    "suit": "Spades",
+	"value": 1,
+	"face": "A",
+	"image": "./card_photos/acespades.svg"
+  },
+  {
+    "suit": "Spades",
+	"value": 2,
+	"image": "./card_photos/2spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 3,
+	"image": "./card_photos/3spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 4,
+	"image": "./card_photos/4spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 5,
+	"image": "./card_photos/5spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 6,
+	"image": "./card_photos/6spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 7,
+	"image": "./card_photos/7spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 8,
+	"image": "./card_photos/8spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 9,
+	"image": "./card_photos/9spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 10,
+	"image": "./card_photos/10spades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 10,
+	"face": "J",
+	"image": "./card_photos/jackspades.svg"
+  },
+   {
+    "suit": "Spades",
+	"value": 10,
+	"face": "Q",
+	"image": "./card_photos/queenspades.png"
+  },
+   {
+    "suit": "Spades",
+	"value": 10,
+	"face": "K",
+	"image": "./card_photos/kingspades.png"
+  }
+]
